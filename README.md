@@ -8,7 +8,7 @@
 ![](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=5c5c5c&color=00599C&logoColor=white&label=%20)   ![](https://img.shields.io/static/v1?message=Cpp&logo=c%2B%2B&labelColor=5c5c5c&color=00599C&logoColor=white&label=%20) ![](https://img.shields.io/static/v1?message=CSharp&logo=c%20sharp&labelColor=5c5c5c&color=00599C&logoColor=white&label=%20)
 
 ##### But i also did some projects with:
-![](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=00599C&logoColor=white&label=%20) ![](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=5c5c5c&color=00599C&logoColor=white&label=%20)  
+![](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=00599C&logoColor=white&label=%20)
 
 
 ##### And here is my currently top languages used on my repositories:
