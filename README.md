@@ -21,4 +21,4 @@
 
 ranniery.dias@live.com
 
-https://linkedin.com/RannieryDias
+https://www.linkedin.com/in/rannierydias/
