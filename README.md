@@ -4,7 +4,7 @@
 
 ---
 
-##### I'm currenty working and studying the following technologies:
+##### I'm currenty working with and studying the following technologies:
 ![](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=5c5c5c&color=00599C&logoColor=white&label=%20)   ![](https://img.shields.io/static/v1?message=Cpp&logo=c%2B%2B&labelColor=5c5c5c&color=00599C&logoColor=white&label=%20) ![](https://img.shields.io/static/v1?message=CSharp&logo=c%20sharp&labelColor=5c5c5c&color=00599C&logoColor=white&label=%20)
 
 ##### But i also did some projects with:
