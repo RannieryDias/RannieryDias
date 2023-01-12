@@ -11,12 +11,6 @@
 ![](https://img.shields.io/static/v1?message=Java&logo=java&labelColor=5c5c5c&color=00599C&logoColor=white&label=%20)
 
 
-##### And here is my currently top languages used on my repositories:
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RannieryDias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-***
-
 ### You can find me on:
 
 ranniery.dias@live.com
