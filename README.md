@@ -1,6 +1,6 @@
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I'm a computer Science student, Technology and culture enthusiast currently working as a a software developer intern on Projeto CIn-UFPE Samsung
+### I'm a Software engineer and a lover of technology, engineering, games and culture in general. currently working full-time on Projeto CIn-UFPE Samsung
 
 ---
 
@@ -13,7 +13,7 @@
 
 ##### And here is my currently top languages used on my repositories:
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RannieryDias&theme=blue-green)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RannieryDias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
