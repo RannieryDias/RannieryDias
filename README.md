@@ -1,6 +1,6 @@
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I'm a Software engineer and a lover of technology, engineering, games and culture in general. currently working full-time on Projeto CIn-UFPE Samsung
+### I'm a Computer Scientist graduated at UFRPE, Software engineer and a lover of technology, engineering, games and culture in general. currently working full-time on Projeto CIn-UFPE Samsung
 
 ---
 
